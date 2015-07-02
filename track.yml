@@ -2,4 +2,10 @@
 track:
     title: Intro to Random Permutations of Source Code
     uuid: 98f3ca41-3145-4684-869a-633dbf3fac0a
-    topics: []
+    topics:
+    -   title: Moving around lines of code
+        uuid: 67ac7f93-61ac-4947-8dd4-6cd9e8c8bcc7
+        units: []
+    -   title: avsdfvsa
+        uuid: 3bb3502d-b5b9-44cd-9f3c-e7bd7ff3f979
+        units: []
